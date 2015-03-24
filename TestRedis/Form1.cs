@@ -41,7 +41,7 @@ namespace TestRedis
             System.Console.WriteLine("double类型的最大值:  {0},最小值:  {1}", double.MaxValue, double.MinValue);
             System.Console.WriteLine("decimal类型的最大值:  {0},最小值:  {1}", decimal.MaxValue, decimal.MinValue);
 
-            string a = "cc";
+            string a = "bbbb";
             a.Firstdddddddddddd<int, int>(3);
         }
 
